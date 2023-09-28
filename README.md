@@ -1,5 +1,5 @@
-# Programming-Computer-Vision-with-Python-Notebook
-Programming Computer Vision with Python Notebook Version
+# OpenCV-Python Tutorials
+OpenCV-Python Tutorials
 
 Homework2 https://youtu.be/Cfj4Y1Z_nKI
 
